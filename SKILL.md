@@ -164,3 +164,29 @@ A person may do any one of these on purpose, so the weaker ones need company fro
 > The new policy — announced without warning — affects thousands of workers. The changes -- long overdue according to critics -- will take effect immediately.
 **After:**
 > The new policy, announced without warning, affects thousands of workers. The changes, long overdue according to critics, will take effect immediately.
+
+### 9. Stacked qualifiers
+
+**Watch for:** to be fair, it's also possible, could potentially, might arguably, in some cases it may, this is an inference
+**Problem:** Repeated editing adds one qualifier after another until every claim sounds uncertain, usually to repair an earlier overstatement rather than to report real doubt. Keep a qualifier only when the source supports it and the meaning needs it. Keep scope statements, legal and safety notices, and real corrections. Ordinary hedges such as *perhaps* or *tends to* are human habits and not tells. *Weak alone.*
+**Before:**
+> It could potentially possibly be argued that the policy might have some effect on outcomes.
+**After:**
+> The policy may affect outcomes.
+
+### 10. Hyphenated pairs everywhere
+
+**Watch for:** third-party, cross-functional, client-facing, data-driven, decision-making, well-known, high-quality, real-time, long-term, end-to-end
+**Problem:** These pairs are hyphenated in every position. Keep the hyphen before a noun when grammar needs it, as in `a high-quality report`, and drop it after the noun, as in `the report is high quality`. *Weak alone.*
+**Before:**
+> The team is cross-functional, the report is high-quality, and the methodology is data-driven.
+**After:**
+> The team is cross functional, the report is high quality, and the methodology is data driven.
+
+### 11. Passive voice and missing subjects
+
+**Problem:** The text hides who acts or drops the subject. Use active voice when it makes the actor and action clearer. *Weak alone.*
+**Before:**
+> No configuration file needed. The results are preserved automatically.
+**After:**
+> You do not need a configuration file. The system preserves the results automatically.
