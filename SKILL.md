@@ -190,3 +190,42 @@ A person may do any one of these on purpose, so the weaker ones need company fro
 > No configuration file needed. The results are preserved automatically.
 **After:**
 > You do not need a configuration file. The system preserves the results automatically.
+
+## C. Inflation and borrowed authority
+
+The fact underneath is usually sound. Keep it and remove the dressing.
+
+### 12. Overused AI words
+
+**Watch for:** Actually, additionally, align with, bolstered, crucial, deep dive, delve, emphasizing, enduring, enhance, fostering, garner, gate/gated/gating (figurative; keep technical uses), highlight (verb), interplay, intricate/intricacies, key (adjective), landscape (abstract noun), meticulous/meticulously, pivotal, quietly, robust (figurative; keep technical uses), showcase, tapestry (abstract noun), testament, underscore (verb), valuable, vibrant
+**Problem:** Models use these words far more often than people do, especially in groups. This is the only vocabulary list in the skill. A formal word outside it is not a tell by itself.
+**Before:**
+> Additionally, a distinctive feature of Somali cuisine is the incorporation of camel meat. An enduring testament to Italian colonial influence is the widespread adoption of pasta in the local culinary landscape, showcasing how these dishes have integrated into the traditional diet.
+**After:**
+> Somali cuisine also includes camel meat, which is considered a delicacy. Pasta dishes, introduced during Italian colonization, remain common, especially in the south.
+
+### 13. Inflated significance
+
+**Watch for:** stands as a testament, a pivotal or crucial moment, plays a key role, marking or shaping the, underscores its importance, reflects a broader, enduring or lasting legacy, setting the stage for, evolving landscape, indelible mark; Despite these challenges... continues to thrive, Challenges and Legacy, Future Outlook, Awards and recognition; the future looks bright, exciting times ahead, a step in the right direction
+**Problem:** An ordinary detail is said to mark a change, prove a legacy, or promise a future. The move appears at three scales: a phrase, a stock "challenges and outlook" section, and a send-off paragraph. Keep the fact and drop the significance. End on the last concrete fact; if the source states real plans, use those.
+**Before:**
+> The Statistical Institute of Catalonia was officially established in 1989, marking a pivotal moment in the evolution of regional statistics in Spain. This initiative was part of a broader movement across Spain to decentralize administrative functions and enhance regional governance.
+**After:**
+> The Statistical Institute of Catalonia was established in 1989, part of a wider decentralization of administrative functions in Spain.
+**Before (stock section):**
+> Despite its industrial prosperity, Korattur faces challenges typical of urban areas, including traffic congestion and water scarcity. Despite these challenges, with its strategic location and ongoing initiatives, Korattur continues to thrive as an integral part of Chennai's growth.
+**After:**
+> Korattur has recurring traffic congestion and water shortages.
+**Before (send-off):**
+> The future looks bright for the company. Exciting times lie ahead as they continue their journey toward excellence.
+**After:**
+> (Cut the paragraph. End on the last concrete fact.)
+
+### 14. Vague connection or association
+
+**Watch for:** associated with, in association with, connected to, in connection with, linked to, tied to
+**Problem:** The text says two things are connected without saying how. "He was associated with the leadership of ExampleCorp" hides whether he was the CEO, a board member, or a consultant. Name the relationship the source gives. If the source does not say, keep the vague wording rather than inventing a role.
+**Before:**
+> He is associated with the Rajhans Orchestra, which he founded and conducts. The concerts were organised in connection with the celebrations of Pakistan's 50th anniversary.
+**After:**
+> He founded and conducts the Rajhans Orchestra. The concerts were part of the celebrations of Pakistan's 50th anniversary.
