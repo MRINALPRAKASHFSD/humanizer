@@ -1,0 +1,24 @@
+{
+  "name": "@mrinalprakash/humanizer",
+  "version": "3.0.0",
+  "description": "Heuristic AI writing pattern auditor and natural prose enhancer for coding agents and developers",
+  "main": "scripts/validate-package.py",
+  "scripts": {
+    "validate": "python3 scripts/validate-package.py",
+    "audit": "python3 scripts/audit_patterns.py",
+    "test": "npm run validate"
+  },
+  "keywords": [
+    "ai-writing",
+    "claude-skill",
+    "humanizer",
+    "prose-linting",
+    "writing-assistant"
+  ],
+  "author": "Mrinal Prakash <mrinalprakash9123@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRINALPRAKASHFSD/humanizer.git"
+  }
+}
